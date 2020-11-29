@@ -1,0 +1,13 @@
+{
+  "name": "nested-dnd",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/vmm0nplz5y",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react-beautiful-dnd": "4.0.1",
+    "react": "16.0.0"
+  }
+}
